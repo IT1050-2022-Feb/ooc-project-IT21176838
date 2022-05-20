@@ -1,4 +1,4 @@
-#include <interview.h>
+#include "interview.h"
 
 void Interview::setInterviewId(int interId)
 {
